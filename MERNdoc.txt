@@ -1,0 +1,2 @@
+VITE - npm run dev
+NODEJS - npm start
