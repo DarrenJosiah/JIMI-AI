@@ -3,7 +3,7 @@
 Coded along with JavaScript Mastery YouTube tutorial. MERN stack with OpenAI API. Using Vite, Cloudinary and deployed with Render web service.
 
 ### Home Page
-![Preview](public/preview.png)
+![Preview](client/public/preview.png)
 
 ### Create Post Page
-![Preview](public/preview1.png)
+![Preview](client/public/preview1.png)
